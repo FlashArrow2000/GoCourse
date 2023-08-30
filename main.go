@@ -1,9 +1,9 @@
-package puppy
+package puppypackage
 
 func Bark() string {
 	return "Woof"
 }
 
 func Barks() string {
-	return "Woof Woof Woof"
+	return "Woof, Woof, Woof"
 }
